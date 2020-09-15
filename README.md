@@ -12,8 +12,12 @@ Testing exercise for JetBrains Internship
  - TornadoFX
  - Kotlin
 
-## Launch
-Run file main.kt **OR** in this way: https://youtu.be/-y0F-wkrryo?t=680
+## Launch(2 ways)
+* Using IntelliJ IDEA
+    #### Opening as project and run file *main.kt*
+
+* Using Gradle
+    #### From root folder execute command `./gradlew run`
 
 ## [Screenshot](https://github.com/olli2017/tornadofx-traffic_lights/blob/master/Screenshot.png) of working app
 
