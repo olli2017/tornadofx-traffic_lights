@@ -14,4 +14,4 @@ Testing exercise for JetBrains Internship
 
 ## [Screenshot](https://github.com/olli2017/tornadofx-traffic_lights/blob/master/Screenshot.png) of working app
 
-App was created in Intellij Idea
+App was created in Intellij Idea(download TornadoFX plugin and Kotlin plugin)
